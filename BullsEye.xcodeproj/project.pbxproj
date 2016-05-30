@@ -7,13 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84657DE91CFA78D800357697 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 84657DE81CFA78D800357697 /* BullsEye.html */; };
+		84657DEC1CFB127700357697 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84657DEA1CFB127700357697 /* Default-568h@2x.png */; };
+		84657DED1CFB127700357697 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84657DEB1CFB127700357697 /* Default@2x.png */; };
 		84A806711CF8FF920013E9AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A806701CF8FF920013E9AE /* AppDelegate.swift */; };
 		84A806731CF8FF920013E9AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A806721CF8FF920013E9AE /* ViewController.swift */; };
 		84A806761CF8FF920013E9AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A806741CF8FF920013E9AE /* Main.storyboard */; };
 		84A806781CF8FF920013E9AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A806771CF8FF920013E9AE /* Assets.xcassets */; };
-		84A8067B1CF8FF920013E9AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A806791CF8FF920013E9AE /* LaunchScreen.storyboard */; };
 		84A806861CF8FF920013E9AE /* BullsEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A806851CF8FF920013E9AE /* BullsEyeTests.swift */; };
 		84A806911CF8FF920013E9AE /* BullsEyeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A806901CF8FF920013E9AE /* BullsEyeUITests.swift */; };
+		84A8069F1CFA676A0013E9AE /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A8069E1CFA676A0013E9AE /* AboutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,12 +37,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84657DE81CFA78D800357697 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = "../../The iOS Apprentice 1 - Getting Started/Resources/BullsEye.html"; sourceTree = "<group>"; };
+		84657DEA1CFB127700357697 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../../The iOS Apprentice 1 - Getting Started/Resources/Launch Images/Default-568h@2x.png"; sourceTree = "<group>"; };
+		84657DEB1CFB127700357697 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../../The iOS Apprentice 1 - Getting Started/Resources/Launch Images/Default@2x.png"; sourceTree = "<group>"; };
 		84A8066D1CF8FF910013E9AE /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A806701CF8FF920013E9AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84A806721CF8FF920013E9AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		84A806751CF8FF920013E9AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84A806771CF8FF920013E9AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		84A8067A1CF8FF920013E9AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84A8067C1CF8FF920013E9AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84A806811CF8FF920013E9AE /* BullsEyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullsEyeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A806851CF8FF920013E9AE /* BullsEyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeTests.swift; sourceTree = "<group>"; };
@@ -47,6 +52,7 @@
 		84A8068C1CF8FF920013E9AE /* BullsEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullsEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A806901CF8FF920013E9AE /* BullsEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeUITests.swift; sourceTree = "<group>"; };
 		84A806921CF8FF920013E9AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A8069E1CFA676A0013E9AE /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,11 +103,14 @@
 		84A8066F1CF8FF920013E9AE /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				84657DEA1CFB127700357697 /* Default-568h@2x.png */,
+				84657DEB1CFB127700357697 /* Default@2x.png */,
+				84657DE81CFA78D800357697 /* BullsEye.html */,
 				84A806701CF8FF920013E9AE /* AppDelegate.swift */,
 				84A806721CF8FF920013E9AE /* ViewController.swift */,
+				84A8069E1CFA676A0013E9AE /* AboutViewController.swift */,
 				84A806741CF8FF920013E9AE /* Main.storyboard */,
 				84A806771CF8FF920013E9AE /* Assets.xcassets */,
-				84A806791CF8FF920013E9AE /* LaunchScreen.storyboard */,
 				84A8067C1CF8FF920013E9AE /* Info.plist */,
 			);
 			path = BullsEye;
@@ -193,6 +202,7 @@
 				TargetAttributes = {
 					84A8066C1CF8FF910013E9AE = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 9YH3LZQ69V;
 					};
 					84A806801CF8FF920013E9AE = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -229,7 +239,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84A8067B1CF8FF920013E9AE /* LaunchScreen.storyboard in Resources */,
+				84657DE91CFA78D800357697 /* BullsEye.html in Resources */,
+				84657DEC1CFB127700357697 /* Default-568h@2x.png in Resources */,
+				84657DED1CFB127700357697 /* Default@2x.png in Resources */,
 				84A806781CF8FF920013E9AE /* Assets.xcassets in Resources */,
 				84A806761CF8FF920013E9AE /* Main.storyboard in Resources */,
 			);
@@ -256,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84A8069F1CFA676A0013E9AE /* AboutViewController.swift in Sources */,
 				84A806731CF8FF920013E9AE /* ViewController.swift in Sources */,
 				84A806711CF8FF920013E9AE /* AppDelegate.swift in Sources */,
 			);
@@ -299,14 +312,6 @@
 				84A806751CF8FF920013E9AE /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		84A806791CF8FF920013E9AE /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				84A8067A1CF8FF920013E9AE /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -401,10 +406,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Artur.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -412,10 +420,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Artur.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -484,6 +495,7 @@
 				84A806971CF8FF920013E9AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84A806981CF8FF920013E9AE /* Build configuration list for PBXNativeTarget "BullsEyeTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +504,7 @@
 				84A8069A1CF8FF920013E9AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84A8069B1CF8FF920013E9AE /* Build configuration list for PBXNativeTarget "BullsEyeUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +513,7 @@
 				84A8069D1CF8FF920013E9AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
